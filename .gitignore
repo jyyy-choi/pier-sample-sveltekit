@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.next/
+.svelte-kit/
+.astro/
+.output/
+*.log
